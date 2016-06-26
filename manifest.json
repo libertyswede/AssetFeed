@@ -1,0 +1,10 @@
+{
+  "pluginVersion": 1,
+  "name": "Asset Feed",
+  "myVersion": "v.0.1",
+  "shortDescription": "Shows custom asset messages and info",
+  "infoUrl": "http://moreinfosonhelloworldplugin.info",
+  "startPage": "p_asset_feed",
+  "nrsVersion": "1.9.0",
+  "deactivated": false
+}
